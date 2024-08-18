@@ -1,0 +1,27 @@
+body{
+    background-color: aqua;
+    background-image: ;
+   
+}
+h2{
+position: sticky;
+top: 2px;
+padding: 10px;
+text-align: center;
+}
+button{
+    background-color: blue;
+    color: aliceblue;
+    text-align: right;
+    align-items: center;
+   margin-left: 80%;
+}
+/* *{
+    box-sizing: border-boxs;
+}
+@media only screen and (max-width:500px){
+.main{
+    width: 80%;
+    padding: 0;
+} */
+}
